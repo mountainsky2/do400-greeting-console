@@ -21,7 +21,7 @@ pipeline{
             }
         }
 
-     // Add the Release stage here ate
+     // Add the Release stage here atea
 	stage('Release') {
 	    steps {
 		sh '''
